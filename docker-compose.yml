@@ -2,7 +2,7 @@
 services:
   django:
     build: .
-    container_name: proyecto-scrum-django
+    container_name: javi
     restart: unless-stopped
 
     ports:
